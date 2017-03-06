@@ -25,3 +25,6 @@ React + Redux Simple Project Demo
 ## Not Use
 * react-icon
   * http://gorangajic.github.io/react-icons/
+  
+## PPT
+ https://docs.google.com/presentation/d/14VnxzZxZ7SjiW_DtvXvhR7A17T9a9SycMYwNTbP2QrQ/edit?usp=sharing
