@@ -2,6 +2,8 @@
 
 React + Redux Simple Project Demo
 
+Demo: http://flymaple.github.io/react-mp3player
+
 ## React Ref
 * create-react-app
   * https://github.com/facebookincubator/create-react-app
